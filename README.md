@@ -1,5 +1,5 @@
 ## Siddharth K
-<img src="[https://example.com/your-image-url.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd3MTZtNXA4YW1oZ3F2ZTdoNHJueDF3b2J5czYydjF4a2FyaXRraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUPjsJSPpXloyRJSeW/giphy.gif)" alt=". This famous gesture represents the creation of the first man with the Creator's index finger ready to strike a spark upon contact with Adam's hand.">
+
 ### Bio
 
 I'm Siddharth K, a self-taught data scientist with a passion for solving complex problems through data-driven insights. In the early stages of my career, I'm continually driven by curiosity and a thirst for knowledge.
@@ -26,7 +26,7 @@ Explore my work on my [portfolio](https://www.datascienceportfol.io/SiddharthK).
 ### Connect
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/sidk17). Feel free to reach out if you have any questions, ideas, or just want to connect.
-
+<img src="[https://example.com/your-image-url.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd3MTZtNXA4YW1oZ3F2ZTdoNHJueDF3b2J5czYydjF4a2FyaXRraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUPjsJSPpXloyRJSeW/giphy.gif)" alt=". This famous gesture represents the creation of the first man with the Creator's index finger ready to strike a spark upon contact with Adam's hand.">
 ### Note
 
 This README serves as a brief introduction to my data science journey and the skills I bring to the table. I'm excited to collaborate, learn, and contribute in this dynamic field.
