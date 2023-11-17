@@ -31,6 +31,3 @@ Explore my work on my [portfolio](https://www.datascienceportfol.io/SiddharthK).
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/sidk17). Feel free to reach out if you have any questions, ideas, or just want to connect.
 
-### Note
-
-This README serves as a brief introduction to my data science journey and the skills I bring to the table. I'm excited to collaborate, learn, and contribute in this dynamic field.
