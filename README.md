@@ -11,8 +11,6 @@ I'm Siddharth K,I'm interested all about data and machine learning systems
 Check out my [portfolio](https://github.com/zenvall/My-portfolios)
 which includes my macro and micro projects and Certifications.
 
-
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zenvall/My-portfolios)](https://github.com/zenvall/My-portfolios)
 
 ![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zenvall)
-
