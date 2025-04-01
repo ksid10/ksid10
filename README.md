@@ -11,6 +11,8 @@ I'm Siddharth K,I'm interested all about data and machine learning systems
 Check out my [portfolio](https://github.com/zenvall/My-portfolios)
 which includes my macro and micro projects and Certifications.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksid10&show_icons=true&locale=en&layout=compact" alt="Siddharth K" /></p>  
+
 <!-- [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/zenvall/My-portfolios)](https://github.com/zenvall/My-portfolios) -->
 
 <!-- ![Your GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=zenvall&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) -->
